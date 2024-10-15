@@ -1,3 +1,15 @@
-This is a streamlit app built upon LangFlow. It is a chatbot which can chat with the user , using knowledge database of Openai 
-gpt-4o-mini model. The bot is provided with an agent which can call TavilySearch tool when it requires to fetch real time data from 
-web.
+**Title: LangFlow Application: AI-powered Chatbot with Tavily Search and GPT-4o Mini**
+
+**Description:**
+
+This repository implements a LangFlow application, an interactive chatbot that leverages the power of Tavily search and the GPT-4o Mini language model. It utilizes Streamlit for a user-friendly web interface.
+
+**Features:**
+
+_Conversation Management_:        Engage in natural conversations with the AI assistant.
+
+_Tavily Search Integration_:      Access and utilize search results within the conversation flow.
+
+_GPT-4o Mini Language Model_:     Benefit from the advanced text generation capabilities of GPT-4o Mini.
+
+_Streamlit Web UI_:               Interact with the chatbot through a convenient web interface.
