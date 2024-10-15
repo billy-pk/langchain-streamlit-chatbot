@@ -13,3 +13,5 @@ _Tavily Search Integration_:      Access and utilize search results within the c
 _GPT-4o Mini Language Model_:     Benefit from the advanced text generation capabilities of GPT-4o Mini.
 
 _Streamlit Web UI_:               Interact with the chatbot through a convenient web interface.
+
+![graph](https://github.com/user-attachments/assets/1de6dd35-2240-4c3d-b322-4abc907afd14)
