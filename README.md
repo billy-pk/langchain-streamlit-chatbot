@@ -1,8 +1,8 @@
-**Title: LangFlow Application: AI-powered Chatbot with Tavily Search and GPT-4o Mini**
+**Title: LangGraph Application: AI-powered Chatbot with Tavily Search and GPT-4o Mini**
 
 **Description:**
 
-This repository implements a LangFlow application, an interactive chatbot that leverages the power of Tavily search and the GPT-4o Mini language model. It utilizes Streamlit for a user-friendly web interface.
+This repository implements a LangGraph application, an interactive chatbot that leverages the power of Tavily search and the GPT-4o Mini language model. It utilizes Streamlit for a user-friendly web interface.
 
 **Features:**
 
